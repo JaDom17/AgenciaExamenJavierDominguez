@@ -10,5 +10,5 @@ package ejerciciogitnetbeansjavi;
  * @author il_ja
  */
 public class PruebaGit {
-    public final int n =5;
+    public int n =5;
 }
