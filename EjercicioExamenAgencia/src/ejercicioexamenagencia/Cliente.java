@@ -6,6 +6,7 @@ public class Cliente extends Persona {
 
     public Vector  myReserva;
 	//Hola bebe
+	//Hola Carlos
 
   public String elegirMetodoPago() {
   return null;
